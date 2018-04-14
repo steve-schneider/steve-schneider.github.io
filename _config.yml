@@ -26,9 +26,11 @@ github_username:  steve-schneider
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote-theme: steve-schneider/minima-solarized
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+encoding: utf-8
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
