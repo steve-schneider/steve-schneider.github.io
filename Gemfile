@@ -12,7 +12,7 @@ gem "jekyll", "~> 3.7.3"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.0"
-gem "minima-solarized", :git => "git@github.com:steve-schneider/minima-solarized.git"
+gem "minima-solarized", :git => "git@github.com:steve-schneider/minima-solarized.git", :branch=> "dev"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
